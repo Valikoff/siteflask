@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Node, Yarn
+yarn.lock
+node_modules/
+
+#PyCharm
+.idea
+
 # Distribution / packaging
 .Python
 env/
